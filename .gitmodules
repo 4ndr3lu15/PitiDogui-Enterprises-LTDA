@@ -1,0 +1,6 @@
+[submodule "code/legged_gym"]
+	path = code/legged_gym
+	url = git@github.com:leggedrobotics/legged_gym.git
+[submodule "code/walk-these-ways"]
+	path = code/walk-these-ways
+	url = git@github.com:Improbable-AI/walk-these-ways.git
