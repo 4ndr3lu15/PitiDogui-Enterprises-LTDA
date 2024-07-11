@@ -9,28 +9,12 @@ PitiDógui Enterprises LTDA
 202105858 - MARCELO HENRIQUE LOPES FERREIRA <br>
 202005501 - PEDRO MARTINS BITTENCOURT
 
-### Objetivo
-O objetivo do seminário é trabalhar na solução de um projeto prático com robótica.
-São temas afins todos aqueles relacionados com, por exemplo:
-- Object manipulation
-- SLAM
-- Path Planing
-- Obstacle Avoidance
-- Navigation
-- Locomotion (biped, quadruped, drone, differential, ...)
+### Abstract
 
-E suas aplicações usando, por exemplo:
-- Visual Language Models
-- Object detection
-- Object classification
-- Segmentation (semantic, instance)
-- Tracking
-- ...
+Esse artigo apresenta um estudo aplicando Aprendizado de Máquina por Reforço na locomoção de robôs quadrúpedes em um ambiente simulado altamente paralelizável. A inspiração para o estudo se dá a partir da necessidade de um controle mais estável para aplicações robóticas no meio agrícola, como coleta de dados e tarefas de percepção.
 
-### Proposta
-Nesta seção a equipe vai descrever a proposta do seminário.
-- Problema: Qual problema será estudado
-- Literatura: Revisão de no mínimo 5 fontes de informação relevantes sobre o tema
-- Dataset: Descrever quais serão os dados que serão explorados
-- Métodos: Quais métodos de visão serão revisados
-- Avaliação: Qual será a forma de medir os resultados (métricas, benchmarks, ...)
+## Recursos
+
+### [Slides](https://www.canva.com/design/DAGIq37RxUY/bESBpKrTtZ1GC8aFQw5H6g/edit?utm_content=DAGIq37RxUY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### [Vídeos que inspiraram a hipótese](https://drive.google.com/drive/folders/1f6DDEzuSrpHcGhzv8kB2pK39HUe0C4QW)
+### [Vídeos de simulação do Unitree Go1](https://drive.google.com/drive/folders/1w3I-_l-gipZ1nwX9JgDbtDLndFUuVc0l?usp=drive_link)
